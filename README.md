@@ -2,7 +2,7 @@
 
 This `Django` web application allow users to generates blog posts from YouTube videos. Users can log in, provide a YouTube link, and get a complete blog post generated from the video content. The app uses AssemblyAI for audio transcription and OpenAI for blog content generation.
 
-<img width="960" alt="Screenshot 2024-11-06 at 4 15 14 PM" src="https://github.com/user-attachments/assets/24a49965-c1ee-497d-be63-d384b7c00ebd">
+<img width="1375" alt="Screenshot 2024-11-06 at 4 17 11 PM" src="https://github.com/user-attachments/assets/e0438365-2237-4eeb-8401-36785cc58c28">
 
 ## 🚀 Features
 
