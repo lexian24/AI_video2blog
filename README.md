@@ -1,8 +1,8 @@
-### YouTube Blog Generator
+# AI YouTube Blog Generator
 
-# A web application that generates blog posts from YouTube videos. Users can log in, provide a YouTube link, and get a complete blog post generated from the video content. The app uses AssemblyAI for audio transcription and OpenAI for blog content generation.
+### A web application that generates blog posts from YouTube videos. Users can log in, provide a YouTube link, and get a complete blog post generated from the video content. The app uses AssemblyAI for audio transcription and OpenAI for blog content generation.
 
-# Features
+## Features
 
 User Authentication: Sign up, log in, and log out.
 Blog Generation: Converts YouTube videos into blog articles.
