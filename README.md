@@ -15,8 +15,8 @@ This `Django` web application allow users to generates blog posts from YouTube v
 ## 📦 How to use it?
 
 1. Clone the Repository
-git clone https://github.com/your-username/YouTube-Blog-Generator.git
-cd YouTube-Blog-Generator
+git clone https://github.com/lexian24/AI_video2blog.git
+cd AI_video2blog
 
 3. Install Dependencies
 pip install -r requirements.txt
